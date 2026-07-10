@@ -1,0 +1,12 @@
+{
+  "name": "Athlete Performance Analysis Assistant",
+  "version": "1.0.0",
+  "description": "AI-powered Athlete Performance Analysis Assistant using IBM watsonx Orchestrate, IBM Granite Models, LangFlow and RAG.",
+  "author": "Archana A D",
+  "technology": [
+    "IBM watsonx Orchestrate",
+    "IBM Granite",
+    "LangFlow",
+    "RAG"
+  ]
+}
